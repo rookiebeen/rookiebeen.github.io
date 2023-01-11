@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://rookiebeen.github.io</id>
+    <title>Rookie</title>
+    <updated>2023-01-11T20:03:16.256Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://rookiebeen.github.io"/>
+    <link rel="self" href="http://rookiebeen.github.io/atom.xml"/>
+    <subtitle>日拱一卒</subtitle>
+    <logo>http://rookiebeen.github.io/images/avatar.png</logo>
+    <icon>http://rookiebeen.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Rookie</rights>
+    <entry>
+        <title type="html"><![CDATA[DFSDF]]></title>
+        <id>http://rookiebeen.github.io/post/dfsdf/</id>
+        <link href="http://rookiebeen.github.io/post/dfsdf/">
+        </link>
+        <updated>2023-01-11T12:21:21.000Z</updated>
+        <content type="html"><![CDATA[<p>SDFDSFDSF</p>
+]]></content>
+    </entry>
+</feed>
